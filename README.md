@@ -6,5 +6,4 @@ More details will be provided soon...
 
 ##  The Dataset
 
-To have access to the full dataset, please contact me by email.
-<rsafa@outlook.com>
+To have access to the full dataset, please contact me by email at <rsafa@outlook.com>.
